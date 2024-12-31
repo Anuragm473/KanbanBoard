@@ -47,11 +47,3 @@ This is a **Kanban Board App** where you can manage tasks in different stages li
 - **Data Storage**: Tasks are stored in the browser using IndexedDB. The app creates a database named "KanbanBoardDB" to store tasks. This ensures that your data is saved even after refreshing the page.
 - **React Components**: The app is built with React, and all the logic is divided into simple components.
 
----
-
-## Installation and Setup
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/kanban-board-app.git
-   cd kanban-board-app
