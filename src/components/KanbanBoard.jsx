@@ -168,7 +168,7 @@ const KanbanBoard = () => {
                             Delete
                           </button>
                           <button
-                            className=".edit-task-button "
+                            className="edit-task-button"
                             onClick={(e) => {
                               e.stopPropagation();
                               setEditingTask(task);

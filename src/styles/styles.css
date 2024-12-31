@@ -70,6 +70,7 @@ h1 {
   cursor: grab;
   transition: transform 0.3s ease, box-shadow 0.3s ease, background 0.3s ease;
   position: relative; /* Ensure buttons align properly */
+  z-index:1000;
 }
 
 .task-card:hover {
