@@ -76,6 +76,5 @@ This is a **Kanban Board App** where you can manage tasks in different stages li
    ```bash
    npm install
     
-   ```bash
    npm run dev
-   
+
